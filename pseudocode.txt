@@ -1,0 +1,33 @@
+Kode ini digunakan untuk menunjukkan proses pemesanan makanan via online
+
+     1.) Mulai
+     2.) Print "selamat datang di sistem pemesanan makanan online kami"
+     3.) Print pilihan_restoran
+     4.) Input nama_restoran == nama_restoran
+     5.) Input menu_makanan == menu_makanan
+     6.) Input tambahan_menu_makanan_lain == tambahan_menu_makanan_lain
+     7.) If tambahan_menu_makanan_lain == ingin_tambah
+		Print "kembali ke pilihan item makanan"
+     8.) Else tambahan_menu_makanan_lain == tidak_ingin_tambah
+		Print "silahkan melanjutkan pesanan anda"
+     9.) Input alamat_penerima == alamat_penerima
+    10.) Input detail_pesanan_dan_total_biaya == detail_pesanan_dan_total_biaya
+    11.) If pembayaran_dengan_kartu_kredit == pembayaran_dengan_kartu_kredit
+                Print "Masukkan informasi kartu kredit"
+    12.) Else pembayaran_dengan_kartu_kredit == pembayaran_dengan_uang_tunai
+		Print "Terimakasih atas pesanan anda jangan lupa siapkan uang pas"
+    13.) Input informasi_kartu_kredit == informasi_kartu_kredit
+    14.) Input validasi_data_informasi_kartu_kredit == validasi_data_informasi_kartu_kredit
+		Print "data kartu kredit pengguna"
+    15.) If kartu_kredit_valid == sudah_valid
+     	 	Print "Kartu kredit sudah valid silahkan lanjutkan pesanan anda"
+    16.) Else kartu_kredit_valid == belum_valid
+     	 	Print "Masukkan kembali informasi kartu kredit anda"
+    17.) Input proses_transaksi == proses_transaksi
+		Print "Terima kasih atas pesanan anda, silahkan tunggu pesanan datang"
+    18.) Input telah_menerima_pesanan == telah_menerima_pesanan
+     		Print "Pesanan diterima"
+    19.) Selesai
+
+
+    
